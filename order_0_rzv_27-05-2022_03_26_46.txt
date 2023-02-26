@@ -1,0 +1,3 @@
+BaseProduct{title='Roast Turkey with Hazelnut Stuffing ', rating=0.0, calories=2351, protein=48, fat=91, sodium=1388, price=82}
+BaseProduct{title='Apricot-Walnut Crisp ', rating=4.375, calories=612, protein=87, fat=19, sodium=1573, price=71}
+Pret total: 153 lei.

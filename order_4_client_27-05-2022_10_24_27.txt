@@ -1,0 +1,4 @@
+CompositeProductHibrid contains:{Compus,Honeydew and Cucumber Salad with Sesame ,}rating=13.0, calories=1060, protein=16, fat=62, sodium=662, price=180}
+CompositeProductCompus contains:{Vanilla-Citrus Tea Ring ,Braised Baby Onions with Orange Juice and Balsamic Vinegar ,Surfer's Granola ,}rating=9.0, calories=860, protein=14, fat=46, sodium=476, price=103}
+BaseProduct{title='Simplu', rating=1.0, calories=1, protein=2, fat=2, sodium=2, price=2}
+Pret total: 285 lei.

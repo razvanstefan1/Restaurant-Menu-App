@@ -1,0 +1,8 @@
+Price of order greater than 10 USD. 
+
+client ordered 2 times. 
+
+Price of order greater than 10 USD. 
+
+rzv ordered 3 times. 
+

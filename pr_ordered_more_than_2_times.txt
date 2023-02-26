@@ -1,0 +1,1 @@
+BaseProduct{title='Roast Turkey with Hazelnut Stuffing ', rating=0.0, calories=2351, protein=48, fat=91, sodium=1388, price=82}

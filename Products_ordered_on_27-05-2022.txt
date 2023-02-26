@@ -1,0 +1,7 @@
+BaseProduct{title='Simplu', rating=1.0, calories=1, protein=2, fat=2, sodium=2, price=2} ordered 2 times.
+CompositeProductCompus contains:{Vanilla-Citrus Tea Ring ,Braised Baby Onions with Orange Juice and Balsamic Vinegar ,Surfer's Granola ,}rating=9.0, calories=860, protein=14, fat=46, sodium=476, price=103} ordered 2 times.
+BaseProduct{title='Roast Turkey with Hazelnut Stuffing ', rating=0.0, calories=2351, protein=48, fat=91, sodium=1388, price=82} ordered 4 times.
+BaseProduct{title='Apricot-Walnut Crisp ', rating=4.375, calories=612, protein=87, fat=19, sodium=1573, price=71} ordered 1 times.
+BaseProduct{title='Ginger Cream ', rating=5.0, calories=231, protein=2, fat=24, sodium=21, price=91} ordered 1 times.
+CompositeProductHibrid contains:{Compus,Honeydew and Cucumber Salad with Sesame ,}rating=13.0, calories=1060, protein=16, fat=62, sodium=662, price=180} ordered 2 times.
+BaseProduct{title='Vanilla-Citrus Tea Ring ', rating=3.75, calories=375, protein=4, fat=21, sodium=305, price=26} ordered 1 times.

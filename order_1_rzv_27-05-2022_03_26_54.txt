@@ -1,0 +1,3 @@
+BaseProduct{title='Ginger Cream ', rating=5.0, calories=231, protein=2, fat=24, sodium=21, price=91}
+BaseProduct{title='Vanilla-Citrus Tea Ring ', rating=3.75, calories=375, protein=4, fat=21, sodium=305, price=26}
+Pret total: 117 lei.
